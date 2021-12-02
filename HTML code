@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<main id="main">
+  <title> Tribute to Abraham Lincoln </title>
+  <h1 id="title"> Tribute to Abraham Lincoln </h1>
+  <p> Forever an Illinois hero </p> 
+  <div id= "img-div">
+ <img id= "image" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Abraham_Lincoln_by_Byers%2C_1858_-_crop.jpg" alt="Abe Portrait">
+    <div id="img-caption"><strong>Portrait of Abraham Lincoln.</strong></div>
+   
+    </div>
+  </div>
+  <section id="tribute-info">
+    <h2 id="headline">A True Rags to Riches Story:</h2>
+    <ul> 
+      <li> <strong> 1809: </strong> Abraham is born. </li>
+      <li> <strong>1816: </strong> Abraham's family moves in Indiana. </li>
+      <li> <strong> 1818-19: </strong> Lincoln's mother passes away and father remarries. </li>
+      <li> <strong> 1830: </strong> Lincoln helps family move to Illinois. </li>
+      <li> <strong> 1836: </strong> Lincoln becomes a lawyer. </li>
+      <li> <strong> 1842: </strong> Lincoln marries Mary Todd. </li>
+      <li> <strong> 1846-49: </strong> Lincoln wins election to the U.S. House of Represenatives and introduces legistation to end slavery in D.C. </li> 
+      <li> <strong> 1858: </strong> Lincoln runs for U.S. Senate against Stephen A. Douglas. </li>
+      <li> <strong> 1860: </strong> Lincoln wins presidency. </li>
+      <li> <strong> 1861-64: </strong> American Civil War rages adn the Union prevails. Lincoln empancipates slaves and is reelected. </li>
+      <li> <strong> 1865: </strong> John Wilkes Booth assassinates Lincoln. </li>
+    </ul>
+    <a id="tribute-link" target="_blank" href="https://www.britannica.com/summary/Abraham-Lincoln-Timeline"> Find more information here</a> 
+  </main>
+</html>
+
